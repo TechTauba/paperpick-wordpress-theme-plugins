@@ -1,4 +1,4 @@
-# Paperpick WordPress Theme Plugins
+# Paperpick WordPress Blog Theme Plugins
 ## License
 This project is licensed under the MIT License. 
 
